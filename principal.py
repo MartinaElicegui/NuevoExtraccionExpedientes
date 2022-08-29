@@ -1,5 +1,5 @@
 import sys
-from funcionesDos import *
+from funciones import *
 from easygui import *
 
 def main():
